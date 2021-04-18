@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sambit12312891" target="blank"><img src="https://img.shields.io/twitter/follow/sambit12312891?logo=twitter&style=for-the-badge" alt="sambit12312891" /></a> </p>
 
-- 🔭 I’m currently working on **Android dev**
+- 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **Dart, Kotlin**
+- 🌱 I’m currently learning **Dart**
 
-- 👯 I’m looking to collaborate on **OpenCV**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with **Android dev**
 

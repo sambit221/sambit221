@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sambit</h1>
 <h3 align="center">A passionate Competitive coder, Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit221&label=Profile%20views&color=0e75b6&style=flat" alt="sambit221" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sambit12312891" target="blank"><img src="https://img.shields.io/twitter/follow/sambit12312891?logo=twitter&style=for-the-badge" alt="sambit12312891" /></a> </p>
 

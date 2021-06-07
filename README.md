@@ -1,11 +1,11 @@
 # Hi there, I'm Sambit ✌🏻
 
 ## Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@sambit221-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sambit12312891)](https://twitter.com/Sambit12312891) 
-[![Linkedin Badge](https://img.shields.io/badge/-@sambit221-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/)](https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/) 
-[![Facebook Badge](https://img.shields.io/badge/-@sambit221-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sambit.tripathy.58)](https://www.facebook.com/sambit.tripathy.58) 
-[![Instagram Badge](https://img.shields.io/badge/-@sambit221-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/_its_neon/)](https://www.instagram.com/_its_neon/)
-[![Gmail Badge](https://img.shields.io/badge/-@sambit.tripathy01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambit.tripathy01@gmail.com)](mailto:sambit.tripathy01@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sambit12312891)](https://twitter.com/Sambit12312891) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/)](https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sambit.tripathy.58)](https://www.facebook.com/sambit.tripathy.58) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/_its_neon/)](https://www.instagram.com/_its_neon/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambit.tripathy01@gmail.com)](mailto:sambit.tripathy01@gmail.com)
 <!--[![Whatsapp Badge](https://img.shields.io/badge/-@iamdsp9-applegreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/py7hdl)](https://wa.link/py7hdl)-->
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow)

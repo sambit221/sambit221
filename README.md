@@ -47,5 +47,5 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit221&show_icons=true&locale=en&layout=compact" alt="sambit221" /> 
  
  </a>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush0939&" alt="santosh1901" /></p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambit221&" alt="sambit221" /></p>
 

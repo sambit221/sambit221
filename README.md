@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sambit</h1>
-<h3 align="center">A passionate Competitive coder, Android developer from India</h3>
+# Hi there, I'm Sambit ✌🏻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit221&label=Profile%20views&color=0e75b6&style=flat" alt="sambit221" /> </p>
+## Connect with me:
+[![Twitter Badge](https://img.shields.io/badge/-@sambit221-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sambit12312891)](https://twitter.com/Sambit12312891) 
+[![Linkedin Badge](https://img.shields.io/badge/-@sambit221-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/)](https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/) 
+[![Facebook Badge](https://img.shields.io/badge/-@sambit221-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sambit.tripathy.58)](https://www.facebook.com/sambit.tripathy.58) 
+[![Instagram Badge](https://img.shields.io/badge/-@sambit221-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/_its_neon/)](https://www.instagram.com/_its_neon/)
+[![Gmail Badge](https://img.shields.io/badge/-@sambit.tripathy01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambit.tripathy01@gmail.com)](mailto:sambit.tripathy01@gmail.com)
+<!--[![Whatsapp Badge](https://img.shields.io/badge/-@iamdsp9-applegreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/py7hdl)](https://wa.link/py7hdl)-->
+<!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
+[![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow)
 
-<p align="left"> <a href="https://twitter.com/sambit12312891" target="blank"><img src="https://img.shields.io/twitter/follow/sambit12312891?logo=twitter&style=for-the-badge" alt="sambit12312891" /></a> </p>
+---
 
 - 🔭 I’m currently working on **Machine learning & Deep learning**
 
@@ -17,15 +24,11 @@
 
 - 💬 Ask me about **anything related to technology**
 
-- 📫 How to reach me **sambit.tripathy01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sambit12312891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sambit12312891" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sambit221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sambit221" height="30" width="40" /></a>
 <a href="https://kaggle.com/sambit221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sambit221" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sambit.tripathy.58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sambit.tripathy.58" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_its_neon" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sambit221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sambit221" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sambit_tripathy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sambit_tripathy1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sambit221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sambit221" height="30" width="40" /></a>

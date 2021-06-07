@@ -43,8 +43,9 @@
 
 <p align = "center">
 <a href="https://github.com/sambit221">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit221&show_icons=true&locale=en&layout=compact" alt="sambit221" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambit221&show_icons=true&locale=en" alt="sambit221" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sambit221&show_icons=true&locale=en" alt="sambit221" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit221&show_icons=true&locale=en&layout=compact" alt="sambit221" /> 
+ 
  </a>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush0939&" alt="santosh1901" /></p>
 

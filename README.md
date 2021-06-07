@@ -1,6 +1,5 @@
 # Hi there, I'm Sambit ✌🏻
 
-<<<<<<< HEAD
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@sambit221-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sambit12312891)](https://twitter.com/Sambit12312891) 
 [![Linkedin Badge](https://img.shields.io/badge/-@sambit221-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/)](https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/) 
@@ -12,7 +11,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow)
 =======
 
->>>>>>> eade14f7ed6da9229f1fed5e0cc4adf5a4fe97c5
 
 ---
 

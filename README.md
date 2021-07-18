@@ -18,7 +18,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sambittripathy01/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/sambittripathy01/profile" height="30" width="40" /></a>
 </p>
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
-[![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow) -->
 
 
 

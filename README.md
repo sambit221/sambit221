@@ -32,7 +32,9 @@
 
 - 🤝 I’m looking for help with **Android dev**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sambit221](https://github.com/sambit221)
+- 👨‍💻 All of my projects are available at [here](https://github.com/sambit221)
+
+- Checkout my [portfolio](https://sambit221.github.io/)
 
 - 💬 Ask me about **anything related to technology**
 

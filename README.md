@@ -1,5 +1,7 @@
 # Hi there, I'm Sambit ✌🏻
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sambit12312891)](https://twitter.com/Sambit12312891) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/)](https://www.linkedin.com/in/sambit-kumar-tripathy-1a29b31aa/) 
@@ -20,9 +22,9 @@
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 <!-- [![GitHub followers](https://img.shields.io/github/followers/sambit221?label=Follow&style=social)](https://github.com/sambit221/?tab=follow) -->
 
-
-
 ---
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🔭 I’m currently working on **Machine learning & Deep learning**
 
